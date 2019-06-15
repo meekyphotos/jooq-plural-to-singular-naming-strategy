@@ -14,7 +14,7 @@ Deplurization is done using
 To use it add the following configuration in your JOOQ generator 
 ```xml
 <strategy>
-  <name>org.jooq.plugins.naming.PluralToSingularNamingStrategy</name>
+  <name>org.travelhub.jooq.plugins.naming.PluralToSingularNamingStrategy</name>
 </strategy>
 ```
 
