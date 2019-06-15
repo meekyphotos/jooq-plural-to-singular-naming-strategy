@@ -1,4 +1,4 @@
-package org.jooq.plugins.naming;
+package org.travelhub.jooq.plugins.naming;
 
 import org.jibx.schema.codegen.extend.DefaultNameConverter;
 import org.jibx.schema.codegen.extend.NameConverter;
