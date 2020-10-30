@@ -20,6 +20,7 @@ To use it add the following configuration in your JOOQ generator
 
 and list this project as dependency in the plugin section
 
+# License 
 
 MIT License
 
